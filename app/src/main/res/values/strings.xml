@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SimpleTimer</string>
+    <string name="timer_lever">Timer lever</string>
+    <string name="timer_face">Timer Face</string>
+    <string name="alarm_text">Alarm</string>
+    <string name="alarmtext">AlarmText</string>
+    <string name="alarm">Alarm</string>
+</resources>
