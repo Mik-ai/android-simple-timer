@@ -1,2 +1,5 @@
-﻿# android-simple-timer
-![IMG_20220831_120218](https://user-images.githubusercontent.com/55699389/187641423-9a599032-a8aa-4c86-b46b-ba7c9c213490.jpg)
+﻿# Android timer
+ General idea of this project, is to make timer that will look like kichen timer and interaction should be the same.
+
+
+![IMG_20220831_120218](https://user-images.githubusercontent.com/55699389/189830463-2ca217fd-1971-48a3-bf70-67305b572f7c.jpg)
